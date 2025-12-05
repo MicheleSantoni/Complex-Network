@@ -1,6 +1,6 @@
-# **Complex System Analysis Report**
+# **Complex Network Analysis**
 
-This repository contains the notebook **`Complex_System_Report.ipynb`**, which documents the analysis, modelling, and visualization of a complex system using computational methods. The notebook provides a structured workflow for data processing, exploratory analysis, modeling techniques, and interpretation of results.
+This repository contains the notebook **`Complex_Network.ipynb`**, which documents the analysis, modelling, and visualization of a complex system using computational methods. The notebook provides a structured workflow for data processing, exploratory analysis, modeling techniques, and interpretation of results.
 
 ---
 
