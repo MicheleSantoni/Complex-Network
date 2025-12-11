@@ -2,7 +2,8 @@
 
 This repository contains the notebook **`Complex_Network.ipynb`**, which documents the analysis, modelling, and visualization of a complex system using computational methods. The notebook provides a structured workflow for data processing, exploratory analysis, modeling techniques, and interpretation of results.
 
-The notebook was created to study a subset of data from the "Gaia" space observatory, but it is easy to readapt it to other datasets.
+The notebook was created to study a subset of data from the "Gaia" space observatory, but it is easy to readapt it to other datasets. 
+As an example, one can find my report for this project and my results in the case of the Gaia dataset.
 
 ---
 
